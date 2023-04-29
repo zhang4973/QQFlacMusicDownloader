@@ -41,12 +41,18 @@ Create & Design By QiuChenly.
 
 ```any
 前端技术: 
+
+
 Vue3+TS+Pinia+ElementUI Plus
 
 后端技术: 
+
+
 Python3.11.2 + Flask + Concurrency协程
 
 开发环境:
+
+
 BenQ Laptop Core Duo 双核 1.2Ghz + 2GB DDR3
 
 OS : Windows 7 x64
